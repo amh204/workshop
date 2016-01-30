@@ -1,0 +1,58 @@
+print ("i'm alive")
+1 + 3
+1 + 3 * 2
+type (1 + 3)
+type (1 + 3.0)
+6/4
+6/2
+type (1 + 3)
+6/2
+type 3
+type (3)
+6/3
+type(ture)
+type(True)
+1 + 3
+6/3
+True == False
+True == True
+3 == 3
+3.0 = 3
+3.0 == 3
+1 + 2 == 3
+"aasss"
+type("sdf")
+"aaa" + "bbb"
+type "aaa" + "bbb"
+type ("aaa" + "bbb")
+"aaa"[0]
+"abc"[0]
+"abc"[1]
+input("what is your name? ")
+type input
+type (input)
+type(type)
+type (type)
+type((1, 3))
+type((1, 3, 4))
+(1, 3, "aaa")[3]
+(1, 3, "aaa") [2]
+type[0,1,2]
+type([0,1,2])
+(1, 3, "aaa") [2] == "aaa"
+(1, 3, 'aaa')[2]
+(1, "aa", 'f' )
+%quickref
+i
+_i
+\_i
+/_i
+%hist
+%hist > test.txt
+ls
+pwd
+%hist | test.txt
+ls
+%hist?
+%history?
+%hist -f test.txt
